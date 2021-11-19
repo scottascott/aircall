@@ -1,0 +1,12 @@
+.footer{
+    width: 100%;
+    height: 75px;
+    background: url('https://i.ibb.co/XDMZTtN/3.png" alt="footer') 0 0 no-repeat;
+    margin-top: 511px;
+    float:left;
+    position: absolute;
+}
+.inboundNum{
+    padding-left: 45px;
+    padding-top: 25px;
+}
